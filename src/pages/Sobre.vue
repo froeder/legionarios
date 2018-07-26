@@ -1,6 +1,9 @@
 <template>
   <div class="fixed-center text-center">
-    <p class="text-faded">Olá Mundo</p>
+    <h3 class="text-faded">Sobre mim</h3>
+    <p>
+      Amante da tecnologia. Uso o Vue.js a 6 meses e recentemente comecei a estudar o Quasar Framework. Num primeiro momento ele parece ser promissor.
+    </p>
     <q-btn
       color="secondary"
       style="width:200px;"
@@ -11,6 +14,6 @@
 
 <script>
 export default {
-  name: 'Olá Mundo'
+  name: 'Sobre'
 }
 </script>

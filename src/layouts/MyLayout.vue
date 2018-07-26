@@ -36,6 +36,10 @@
           <q-item-side icon="home" />
           <q-item-main label="Home" sublabel="Página Inicial" />
         </q-item>
+        <q-item to="/sobre">
+          <q-item-side icon="info" />
+          <q-item-main label="Sobre" sublabel="Um pouco sobre mim" />
+        </q-item>
       </q-list>
     </q-layout-drawer>
 
